@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9c74f73f99576b489fcf6b1a1f45312, type: 3}
+  m_Name: Charizard
+  m_EditorClassIdentifier: 
+  nome: Charizard
+  descricao: Largato grande com assas de fogo
+  tipo: {fileID: 11400000, guid: 1417d97a3d8a1ee42875d9de88a1bc59, type: 2}
+  habilidades:
+  - {fileID: 11400000, guid: bae698caa3a9337429a1b8af0f956715, type: 2}
+  - {fileID: 11400000, guid: e73fb5699f292bd45b78f6cac4bb4cbd, type: 2}
+  evolucao: {fileID: 0}
+  preEvolucao: {fileID: 11400000, guid: b961c2309bc8fed46ad56361290552a5, type: 2}
